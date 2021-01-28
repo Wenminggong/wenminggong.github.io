@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 Hello, I am Mingjiang Liu, a simple boy from Fujian, China, studying in [Nanjing University](https://www.nju.edu.cn/). Welcome to visit my homepage.
 
 Guide
