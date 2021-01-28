@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mingjiang Liu"
-  avatar           : "profile.png"
+  avatar           : "Chicago_Bulls_NBA_Basketball_Bull_Logo_humor_2160x1440.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Nanjing, China"
   employer         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/liu-ming-jiang-34"
+  #zhihu            : "https://www.zhihu.com/people/liu-ming-jiang-34"
 
 
 # Reading Files
