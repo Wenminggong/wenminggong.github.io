@@ -2,7 +2,7 @@
 
 main:
   - title: "Academic Homepage"
-   url: /markdown/
+    url: /markdown/
    
   #- title: "Others"
    #url: /others/
