@@ -1,5 +1,13 @@
-About me
-======
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hello, I am Mingjiang Liu, a simple boy from Fujian, China, studying in [Nanjing University](https://www.nju.edu.cn/).
 
 Guide
