@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Mingjiang Liu, a simple boy from Fujian, China, studying in [Nanjing University](https://www.nju.edu.cn/).
+Hello, I am Mingjiang Liu, a simple boy from Fujian, China, studying in [Nanjing University](https://www.nju.edu.cn/). Welcome to visit my homepage.
 
 Guide
 ======
