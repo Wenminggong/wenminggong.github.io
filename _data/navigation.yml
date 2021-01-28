@@ -4,8 +4,8 @@ main:
   - title: "Academic Homepage"
    url: /academic_page/
    
-  - title: "Others"
-   url: /others/
+  #- title: "Others"
+   #url: /others/
   
   #- title: "Publications"
    #url: /publications/
