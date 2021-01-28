@@ -1,11 +1,19 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Academic Homepage"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+## Biography
+
+12
+
+## Research Interests
+
+34
 
 ## Locations of key files/directories
 
