@@ -4,6 +4,6 @@ title: "Others"
 author_profile: true
 ---
 
-## Interests
-* playing basketball
+## Interests (兴趣爱好)
+* playing basketball (篮球)
 
