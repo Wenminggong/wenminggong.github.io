@@ -32,3 +32,5 @@ My current research interests include Machine Learning and Robotics. Currently, 
 ## Servies
 
 ### Teaching Assistant
+* Artificial Intelligence, Autumn, 2020.
+* Automation: An Introduction, Spring, 2020.
