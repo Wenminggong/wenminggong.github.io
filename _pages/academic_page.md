@@ -13,7 +13,7 @@ I'am a second year postgraduate student of [Department of Control and System Eng
 * 2017.7 - 2017.8    "Intelligent Robot" International Summer School in [Harbin Institute of Technology](http://www.hit.edu.cn/).
 * 2015.9 - 2019.7    B.E. in [Department of Control and System Engineering](https://sme.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
 
-## Research Interestts
+## Research Interests
 
 My current research interests include Machine Learning and Robotics. Currently, I'm focused on:
  * Reinforcement Learning
