@@ -3,9 +3,12 @@
 main:
   - title: "Academic Homepage"
     url: /academic_page/
+    
+  - title: "Others"
+    url: /others_page/
   
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+    #url: /publications/
 
   #- title: "Talks"
     #url: /talks/    
