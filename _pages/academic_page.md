@@ -6,7 +6,7 @@ author_profile: true
 
 ## Biography
 
-I'am a second year postgraduate student of [Department of Control and System Engineering](https://sme.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/) under the supervision of Prof. [Chunlin Chen](https://sme.nju.edu.cn/ccl/list.htm).
+I am a second year postgraduate student of [Department of Control and System Engineering](https://sme.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/) under the supervision of Prof. [Chunlin Chen](https://sme.nju.edu.cn/ccl/list.htm).
 
 ## Education
 * 2019.9 - now     M.E. in [Department of Control and System Engineering](https://sme.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
