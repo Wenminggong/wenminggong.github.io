@@ -27,6 +27,8 @@ My current research interests include Machine Learning and Robotics. Currently, 
 
 
 ## Projects
+* Visual Hand Gestures Classification via Convolutional Neural Network
+* Implementation of Classical Reinforcement Learning Algorithms
 
 
 ## Servies
