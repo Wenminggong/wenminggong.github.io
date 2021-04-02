@@ -31,7 +31,7 @@ My current research interests include Machine Learning and Robotics. Currently, 
 
 ## Projects
 * Implementation of Classical Reinforcement Learning Algorithms
-* Visual Hand Gestures Classification via Convolutional Neural Network [\[Github\]](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch)
+* Visual Hand Gestures Classification via Convolutional Neural Network \[[Github](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch)\]
 
 
 ## Servies
