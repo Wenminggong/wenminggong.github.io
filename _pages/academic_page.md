@@ -25,6 +25,9 @@ My current research interests include Machine Learning and Robotics. Currently, 
 
 ### Conferences
 
+### Preprints
+ * Perspective-corrected Spatial Referring Expression Generation for Human-Robot Interaction
+
 
 ## Projects
 * Visual Hand Gestures Classification via Convolutional Neural Network
