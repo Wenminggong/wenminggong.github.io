@@ -26,7 +26,7 @@ My current research interests include Machine Learning and Robotics. Currently, 
 ### Conferences
 
 ### Preprints
- * Perspective-corrected Spatial Referring Expression Generation for Human-Robot Interaction
+ * Mingjiang Liu, Chengli Xiao and Chunlin Chen. Perspective-corrected Spatial Referring Expression Generation for Human-Robot Interaction. \[[arxiv](https://arxiv.org/abs/2104.01558)\]
 
 
 ## Projects
