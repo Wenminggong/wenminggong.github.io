@@ -1,3 +1,2 @@
 # 👨‍🎓 About Me
-Hello, I am Mingjiang Liu. I received the B.E. degree in automation and M.S. degree in control science and engineering 
-from Department of Control and System Engineering, Nanjing University, Nanjing, China, in 2019 and 2022, respectively. I was supervised by [Prof. Chunlin Chen](https://sme.nju.edu.cn/ccl/list.htm). My main research interests include Reinforcement Learning and Robotics.
+Hello, I am Mingjiang Liu. I obtained my B.E. degree in automation and M.S. degree in control science and engineering from the Department of Control and System Engineering at Nanjing University, in 2019 and 2022, respectively, under the supervision of [Prof. Chunlin Chen](https://sme.nju.edu.cn/ccl/list.htm). Currently, I am working as a research assistant at PolyU. My primary research interests lie in Robotics and Reinforcement Learning.

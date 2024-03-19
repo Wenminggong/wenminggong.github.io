@@ -4,3 +4,4 @@
 
 # 👨‍💼 Work Experiences
 - *2022.07 - 2023.10*, Algorithm Engineer, 4paradigm Inc.
+- *2024.03 - now*, Research Assistant, The Hong Kong Polytechnic University.

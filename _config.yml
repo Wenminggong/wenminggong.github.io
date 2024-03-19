@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingjiang Liu (刘铭江)"
-description              : "Graduating from Nanjing University. Focusing on Reinforcement Learning and Robotics. "
+description              : "PolyU student."
 repository               : "Wenminggong/mjliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Mingjiang Liu (刘铭江)"
   avatar           : "images/robot.jpg"
   bio              : 
-  location         : "Nanjing, China"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=5_x4mdwAAAAJ"
