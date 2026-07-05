@@ -10,7 +10,11 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
+<hr class="section-divider">
+
 {% include_relative includes/pub.md %}
+
+<hr class="section-divider">
 
 {% include_relative includes/others.md %}
 
