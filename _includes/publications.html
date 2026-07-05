@@ -1,0 +1,52 @@
+{% assign publication_categories = "journal:Journal Papers|conference:Conference Papers|preprint:Preprints" | split: "|" %}
+
+{% for category in publication_categories %}
+  {% assign category_parts = category | split: ":" %}
+  {% assign category_key = category_parts[0] %}
+  {% assign category_title = category_parts[1] %}
+  {% assign has_items = false %}
+
+  {% for paper in site.data.publications %}
+    {% if paper.visible and paper.category == category_key %}
+      {% assign has_items = true %}
+    {% endif %}
+  {% endfor %}
+
+  {% if has_items %}
+## {{ category_title }}
+
+<div class="publication-list">
+  {% for paper in site.data.publications %}
+    {% if paper.visible and paper.category == category_key %}
+      <article class="publication-card" id="{{ paper.id }}">
+        {% if paper.media and paper.media.path %}
+          <a class="publication-card__media" href="{{ paper.url }}" target="_blank" rel="noopener" aria-label="{{ paper.title }}">
+            <img src="{{ paper.media.path | relative_url }}" alt="{{ paper.media.alt | default: paper.title }}">
+          </a>
+        {% endif %}
+
+        <div class="publication-card__body">
+          <h3 class="publication-card__title">
+            <a href="{{ paper.url }}" target="_blank" rel="noopener">{{ paper.title }}</a>
+          </h3>
+          <p class="publication-card__authors">{{ paper.authors }}</p>
+          <p class="publication-card__venue">{{ paper.venue }}. {{ paper.year }}.</p>
+
+          {% if paper.links and paper.links.size > 0 %}
+            <div class="publication-card__links" aria-label="Publication links">
+              {% for link in paper.links %}
+                {% if link.url contains "://" %}
+                  <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+                {% else %}
+                  <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
+  {% endif %}
+{% endfor %}

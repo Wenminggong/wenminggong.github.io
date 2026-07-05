@@ -1,0 +1,9 @@
+{% assign visitor_map_embed = site.visitor_map.embed_html | strip %}
+{% if site.visitor_map.enabled and visitor_map_embed != "" %}
+<section class="visitor-map" id="visitor-map">
+  <h1>Visitor Map</h1>
+  <div class="visitor-map__embed">
+    {{ site.visitor_map.embed_html }}
+  </div>
+</section>
+{% endif %}

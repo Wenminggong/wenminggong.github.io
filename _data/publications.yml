@@ -1,0 +1,79 @@
+- id: aerial-balance-bench
+  visible: true
+  category: journal
+  title: "Aerial-Balance-Bench: A Controlled and Reproducible Drone-Ball Balancing Benchmark for Indirect Dynamic Aerial Manipulation"
+  url: "https://ieeexplore.ieee.org/document/11594428"
+  authors: "<strong>Mingjiang Liu</strong>, Guanzhong Zhou, Chengchen Zhang, Stephen L. Smith, and Hailong Huang"
+  venue: "IEEE Robotics and Automation Letters (RA-L)"
+  year: "2026"
+  media:
+    path: "/papers/figures/aerial_balance_bench_framework.png"
+    alt: "Framework overview for Aerial-Balance-Bench"
+  links:
+    - label: "Code"
+      url: "https://github.com/Wenminggong/aerial_balance_bench"
+    - label: "PDF"
+      url: "/papers/aerial_balance_bench_ral_2026.pdf"
+    - label: "YouTube"
+      url: "https://www.youtube.com/watch?v=Io369Drg5fQ"
+    - label: "Bilibili"
+      url: "https://www.bilibili.com/video/BV1chKS6oEaD/?spm_id_from=333.1387.homepage.video_card.click"
+
+- id: offline-rl-badminton
+  visible: true
+  category: journal
+  title: "Offline Reinforcement Learning for Badminton Tactical Decision-Making"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0952197625034268"
+  authors: "<strong>Mingjiang Liu</strong>, Weizhi Tao, and Hailong Huang"
+  venue: "Engineering Applications of Artificial Intelligence (EAAI)"
+  year: "2026"
+  media:
+    path: "/papers/figures/offline_rl_badminton_framework.jpg"
+    alt: "Framework overview for offline reinforcement learning in badminton"
+  links:
+    - label: "Code"
+      url: "https://github.com/Wenminggong/Offline_RL_for_Badminton"
+    - label: "PDF"
+      url: "/papers/Offline_RL_for_Badminton_EAAI_paper.pdf"
+
+- id: pcsreg
+  visible: true
+  category: journal
+  title: "Perspective-corrected Spatial Referring Expression Generation for Human-Robot Interaction"
+  url: "https://ieeexplore.ieee.org/document/9747937"
+  authors: "<strong>Mingjiang Liu</strong>, Chengli Xiao, and Chunlin Chen"
+  venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year: "2022"
+  media:
+    path: "/papers/figures/pcsreg_framework.png"
+    alt: "Framework overview for perspective-corrected spatial referring expression generation"
+  links:
+    - label: "PDF"
+      url: "/papers/pcsreg.pdf"
+
+- id: decoupled-pbrl
+  visible: true
+  category: conference
+  title: "Task Decoupling in Preference-based Reinforcement Learning for Personalized Human-Robot Interaction"
+  url: "https://ieeexplore.ieee.org/document/9981076"
+  authors: "<strong>Mingjiang Liu</strong> and Chunlin Chen"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: "2022"
+  media:
+    path: "/papers/figures/decoupled_pbrl_framework.png"
+    alt: "Framework overview for task decoupling in preference-based reinforcement learning"
+  links:
+    - label: "Code"
+      url: "https://github.com/Wenminggong/PbRL_for_PHRI"
+    - label: "PDF"
+      url: "/papers/decoupled_pbrl.pdf"
+
+- id: rich-state-drone-balancing
+  visible: false
+  category: conference
+  title: "Rich State Observations Empower Reinforcement Learning to Surpass PID: A Drone Ball Balancing Study"
+  url: "https://arxiv.org/abs/2509.21122"
+  authors: "<strong>Mingjiang Liu</strong> and Hailong Huang"
+  venue: "Advancements in Aerial Physical Interaction Workshop of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: "2025"
+  links: []
